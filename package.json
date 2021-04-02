@@ -1,10 +1,10 @@
 {
   "name": "@liqd-js/multivalue",
   "description": "Multivalue helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "radixxko",
   "license": "MIT",
-  "main": "lib/model.js",
+  "main": "lib/multivalue.js",
   "homepage": "https://liqd-js.com/lib/multivalue",
   "files": [
     "lib/"
