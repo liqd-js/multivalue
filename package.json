@@ -1,0 +1,25 @@
+{
+  "name": "@liqd-js/multivalue",
+  "description": "Multivalue helper",
+  "version": "0.0.1",
+  "author": "radixxko",
+  "license": "MIT",
+  "main": "lib/model.js",
+  "homepage": "https://liqd-js.com/lib/multivalue",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liqd-js/multivalue.git"
+  },
+  "keywords": [
+    "multivalue",
+    "liqd-js",
+    "liqd"
+  ]
+}
